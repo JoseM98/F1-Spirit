@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1556965059 source:/home/jose/Escritorio/proyectos/F1 Spirit/main.cpp
+	"juego.h"
+
+1557056189 /home/jose/Escritorio/proyectos/F1 Spirit/include/juego.h
+	"coche.h"
+	"Hud.h"
+	"Mapa.h"
+	"CocheEnemigo.h"
+
+1557168335 source:/home/jose/Escritorio/proyectos/F1 Spirit/src/coche.cpp
+	"coche.h"
+
+1557164744 /home/jose/Escritorio/proyectos/F1 Spirit/include/coche.h
+	<SFML/Graphics.hpp>
+	<math.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<stdlib.h>
+
+1557167539 source:/home/jose/Escritorio/proyectos/F1 Spirit/src/juego.cpp
+	"juego.h"
+
+1557161171 source:/home/jose/Escritorio/proyectos/F1 Spirit/src/Hud.cpp
+	"Hud.h"
+
+1557150655 /home/jose/Escritorio/proyectos/F1 Spirit/include/Hud.h
+	<SFML/Graphics.hpp>
+	<math.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	"coche.h"
+	"Mapa.h"
+	"CocheEnemigo.h"
+
+1557168054 source:/home/jose/Escritorio/proyectos/F1 Spirit/src/Mapa.cpp
+	"Mapa.h"
+
+1557161792 /home/jose/Escritorio/proyectos/F1 Spirit/include/Mapa.h
+	"coche.h"
+	"CajaSorpresa.h"
+
+1556995995 /home/jose/Escritorio/proyectos/F1 Spirit/include/CocheEnemigo.h
+	"Mapa.h"
+
+1557164458 source:/home/jose/Escritorio/proyectos/F1 Spirit/src/CocheEnemigo.cpp
+	"CocheEnemigo.h"
+
+1557157962 /home/jose/Escritorio/proyectos/F1 Spirit/include/CajaSorpresa.h
+	<SFML/Graphics.hpp>
+	<math.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<string>
+	<stdlib.h>
+
+1557164103 source:/home/jose/Escritorio/proyectos/F1 Spirit/src/CajaSorpresa.cpp
+	"CajaSorpresa.h"
+
