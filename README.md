@@ -1,5 +1,5 @@
 ES:
-  Videojuego realizado en C++ con SFML con Codeblocks. Proyecto universitario para la asignatura de fundamentos de los videjuegos en Ingeniería Multimedia de la Universidad de Alicante.
+  Videojuego realizado en C++ con SFML y Codeblocks. Proyecto universitario para la asignatura de fundamentos de los videjuegos en Ingeniería Multimedia de la Universidad de Alicante.
   El videojuego trata de asemejarse lo máximo posible al videojuego original F1 Spirit que se lanzó para la consola MSX.
 
 EN:
